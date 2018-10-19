@@ -4,4 +4,6 @@ Primera modificación de repo, 19 de Octubre de 2018
 
 Segunda modificación, ésta desde github
 
-Otro cambio para simular error
+cambiar cosas simulando que otra persona hace cambios
+
+Otro cambio para simular
